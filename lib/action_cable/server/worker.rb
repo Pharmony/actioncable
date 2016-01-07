@@ -1,4 +1,4 @@
-require 'celluloid'
+require 'celluloid/current'
 require 'active_support/callbacks'
 
 module ActionCable
